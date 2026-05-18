@@ -4,5 +4,4 @@ Esta pasta é dedicada a armazenar todos os projetos, trabalhos e pesquisas dese
 
 ## Estrutura
 
-- `projeto_1/`: Descrição breve do projeto 1
-- `projeto_2/`: Descrição breve do projeto 2
+- `Site Bootcamp`: Site desenvolvido durante o bootcamp acadêmico, publicado via Google Sites como exercício de estruturação de conteúdo e apresentação web.
